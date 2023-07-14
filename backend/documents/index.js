@@ -94,7 +94,7 @@ const htmlString =({invoiceID,invoiceDate,customerName,MobileNumber,loadId,booki
                 <div>
                     <img src="" alt="" /> <br />
                     <strong>Ease my transport</strong>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate consectetur neque assumenda voluptatibus quos laborum saepe a minima totam.</p>
+                    <p> Shanthi Complex, Office No: 12,13,14,15(1st Floor), Jawaharlal Nehru Rd, Mangalwar Peth, Narpathgiri Chowk, Pune, Maharashtra 411011</p>
                    
                 </div>
                 <div>
